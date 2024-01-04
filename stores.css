@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container-stores{
+    background-color: #894bca;
+    height: 100%;
+    width: 50%;
+    margin-left: 25%;
+}
+.shop{
+    color: white;
+    font-size: 30px;
+    font-family: "bree serif";
+    font-weight: 300;
+    padding: 30px;
+    margin-top: 35px;
+
+}
+.image1{
+    height: 30%;
+    width: 35%;
+}
+.select-container{
+    background-color: white;
+
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.select{
+    color: #f780c3;
+    font-size: 20px;
+    font-family: "bree serif";
+    font-weight: 200;
+    padding: 20px;
+}
+.image2{
+    height: 20%;
+    width: 20%;
+    margin: 20px;
+}
+.head{
+    color: #323f4b;
+    font-size: 20px;
+    font-family: "bree serif";
+    font-weight: 300;
+    margin: 20px;
+    
+}
+.pag{
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "bree serif";
+    font-weight: 200;
+    margin: 20px;
+
+}
